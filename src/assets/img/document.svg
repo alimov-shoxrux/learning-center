@@ -1,0 +1,27 @@
+<svg width="180.000000" height="180.000000" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_10_960_dd" x="0.000000" y="0.000000" width="180.000000" height="180.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="10"/>
+			<feGaussianBlur stdDeviation="13.3333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.21176 0 0 0 0 0.23922 0 0 0 0 0.53333 0 0 0 0.059 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip10_961">
+			<rect id="file-invoice 1" width="33.000000" height="46.000000" transform="translate(74.000000 57.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_10_960_dd)">
+		<circle id="Ellipse 5" cx="90.000000" cy="80.000000" r="50.000000" fill="#5B72EE" fill-opacity="1.000000"/>
+	</g>
+	<rect id="file-invoice 1" width="33.000000" height="46.000000" transform="translate(74.000000 57.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip10_961)">
+		<path id="Vector" d="M98.75 80L82.25 80L82.25 85.75L98.75 85.75L98.75 80ZM106.39 66.43L97.98 57.62C97.59 57.22 97.07 57 96.52 57L96 57L96 68.5L107 68.5L107 67.95C107 67.38 106.78 66.83 106.39 66.43ZM93.25 69.21L93.25 57L76.06 57C74.91 57 74 57.96 74 59.15L74 100.84C74 102.03 74.91 103 76.06 103L104.93 103C106.08 103 107 102.03 107 100.84L107 71.37L95.31 71.37C94.17 71.37 93.25 70.4 93.25 69.21ZM79.5 63.46C79.5 63.07 79.8 62.75 80.18 62.75L87.06 62.75C87.44 62.75 87.75 63.07 87.75 63.46L87.75 64.9C87.75 65.3 87.44 65.62 87.06 65.62L80.18 65.62C79.8 65.62 79.5 65.3 79.5 64.9L79.5 63.46ZM79.5 69.21C79.5 68.82 79.8 68.5 80.18 68.5L87.06 68.5C87.44 68.5 87.75 68.82 87.75 69.21L87.75 70.65C87.75 71.05 87.44 71.37 87.06 71.37L80.18 71.37C79.8 71.37 79.5 71.05 79.5 70.65L79.5 69.21ZM101.5 96.53C101.5 96.92 101.19 97.25 100.81 97.25L93.93 97.25C93.55 97.25 93.25 96.92 93.25 96.53L93.25 95.09C93.25 94.69 93.55 94.37 93.93 94.37L100.81 94.37C101.19 94.37 101.5 94.69 101.5 95.09L101.5 96.53ZM101.5 78.56L101.5 87.18C101.5 87.98 100.88 88.62 100.12 88.62L80.87 88.62C80.11 88.62 79.5 87.98 79.5 87.18L79.5 78.56C79.5 77.76 80.11 77.12 80.87 77.12L100.12 77.12C100.88 77.12 101.5 77.76 101.5 78.56Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

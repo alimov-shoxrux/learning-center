@@ -1,0 +1,38 @@
+<svg width="180.000000" height="180.000000" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_10_917_dd" x="0.000000" y="0.000000" width="180.000000" height="180.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="16"/>
+			<feGaussianBlur stdDeviation="13.3333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.1451 0 0 0 0 0.17255 0 0 0 0 0.44314 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip10_918">
+			<rect id="calendar 2" width="48.000000" height="48.000000" transform="translate(66.000000 50.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_10_917_dd)">
+		<circle id="Ellipse 6" cx="90.000000" cy="74.000000" r="50.000000" fill="#00CBB8" fill-opacity="1.000000"/>
+	</g>
+	<rect id="calendar 2" width="48.000000" height="48.000000" transform="translate(66.000000 50.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip10_918)">
+		<path id="Vector" d="M78 50C77.05 50 76.28 50.76 76.28 51.71L76.28 55.14L79.71 55.14L79.71 51.71C79.71 50.76 78.94 50 78 50Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M101.99 50C101.05 50 100.28 50.76 100.28 51.71L100.28 55.14L103.71 55.14L103.71 51.71C103.71 50.76 102.94 50 101.99 50Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M108.85 55.14L103.71 55.14L103.71 62C103.71 62.94 102.94 63.71 102 63.71C101.05 63.71 100.28 62.94 100.28 62L100.28 55.14L79.71 55.14L79.71 62C79.71 62.94 78.94 63.71 78 63.71C77.05 63.71 76.28 62.94 76.28 62L76.28 55.14L71.14 55.14C68.3 55.14 66 57.44 66 60.28L66 92.85C66 95.69 68.3 98 71.14 98L108.85 98C111.69 98 114 95.69 114 92.85L114 60.28C114 57.44 111.69 55.14 108.85 55.14ZM110.57 92.85C110.57 93.8 109.8 94.57 108.85 94.57L71.14 94.57C70.19 94.57 69.42 93.8 69.42 92.85L69.42 70.57L110.57 70.57L110.57 92.85Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M79.71 74L76.28 74C75.33 74 74.57 74.76 74.57 75.71C74.57 76.66 75.33 77.42 76.28 77.42L79.71 77.42C80.66 77.42 81.42 76.66 81.42 75.71C81.42 74.76 80.66 74 79.71 74Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M91.71 74L88.28 74C87.33 74 86.57 74.76 86.57 75.71C86.57 76.66 87.33 77.42 88.28 77.42L91.71 77.42C92.66 77.42 93.42 76.66 93.42 75.71C93.42 74.76 92.66 74 91.71 74Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M103.71 74L100.28 74C99.33 74 98.57 74.76 98.57 75.71C98.57 76.66 99.33 77.42 100.28 77.42L103.71 77.42C104.66 77.42 105.42 76.66 105.42 75.71C105.42 74.76 104.66 74 103.71 74Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M79.71 80.85L76.28 80.85C75.33 80.85 74.57 81.62 74.57 82.57C74.57 83.51 75.33 84.28 76.28 84.28L79.71 84.28C80.66 84.28 81.42 83.51 81.42 82.57C81.42 81.62 80.66 80.85 79.71 80.85Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M91.71 80.85L88.28 80.85C87.33 80.85 86.57 81.62 86.57 82.57C86.57 83.51 87.33 84.28 88.28 84.28L91.71 84.28C92.66 84.28 93.42 83.51 93.42 82.57C93.42 81.62 92.66 80.85 91.71 80.85Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M103.71 80.85L100.28 80.85C99.33 80.85 98.57 81.62 98.57 82.57C98.57 83.51 99.33 84.28 100.28 84.28L103.71 84.28C104.66 84.28 105.42 83.51 105.42 82.57C105.42 81.62 104.66 80.85 103.71 80.85Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M79.71 87.71L76.28 87.71C75.33 87.71 74.57 88.48 74.57 89.42C74.57 90.37 75.33 91.14 76.28 91.14L79.71 91.14C80.66 91.14 81.42 90.37 81.42 89.42C81.42 88.48 80.66 87.71 79.71 87.71Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M91.71 87.71L88.28 87.71C87.33 87.71 86.57 88.48 86.57 89.42C86.57 90.37 87.33 91.14 88.28 91.14L91.71 91.14C92.66 91.14 93.42 90.37 93.42 89.42C93.42 88.48 92.66 87.71 91.71 87.71Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M103.71 87.71L100.28 87.71C99.33 87.71 98.57 88.48 98.57 89.42C98.57 90.37 99.33 91.14 100.28 91.14L103.71 91.14C104.66 91.14 105.42 90.37 105.42 89.42C105.42 88.48 104.66 87.71 103.71 87.71Z" fill="#F5F5FC" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

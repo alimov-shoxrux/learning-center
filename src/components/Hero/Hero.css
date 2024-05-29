@@ -1,0 +1,89 @@
+.Hero {
+    padding: 80px 0 150px 0;
+    background-color: #49bbbd; 
+    clip-path: circle(77.7% at 50% 21%);
+     background-image: url('../../assets/img/herogirls.svg'); 
+    background-size: 100%; 
+    background-position: right 50px  top ;
+    background-size: 500px;
+    background-repeat: no-repeat; 
+    clip-path: ellipse(71% 100% at 50% 0%);
+
+
+}
+
+.hero__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+.hero__title {
+    font-size: 45px;
+    font-weight: 700;
+    color: white;
+    width: 581px;
+    margin-bottom: 34px;
+
+    span {
+        color: rgb(244, 140, 6);
+    }
+}
+
+.hero__right__img{
+    width: 600px;
+}
+
+
+.hero__text {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    width: 523px;
+}
+
+.hero__down {
+    display: flex;
+    align-items: center;
+
+
+    .hero__down__button {
+        border-radius: 80px;
+        width: 180px;
+        height: 60px;
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        font-weight: 600;
+        background: rgba(255, 255, 255, 0.3);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: none;
+        cursor: pointer;
+    }
+
+    p {
+        color: rgb(37, 38, 65);
+        font-size: 24px;
+        font-weight: 400;
+
+    }
+
+    img{
+        transform: translateY(20px);
+        cursor: pointer;
+        width: 150px;
+        height: 150px;
+    }
+
+
+
+}
+.hero__modal{
+    background: none;
+    margin: 0 ;
+    padding: 0;
+    border: none;
+}
