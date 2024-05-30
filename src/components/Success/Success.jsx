@@ -225,18 +225,6 @@ function Success() {
                     </div>
                 </div>
                 <button className='last__btn'>See more features</button>
-
-
-
-                {/* explore */}
-                {/* <div className="explore__container">
-
-                <div className="explore">
-                    <h1>Explore Course</h1>
-                    <p>Ut sed eros finibus, placerat orci id, dapibus.</p>
-                    <img  src={exploreimg} alt="exploreimg" />
-                </div>
-                </div> */}
             </div>
         </div>
     )
