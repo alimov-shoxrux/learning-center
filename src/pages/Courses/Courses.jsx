@@ -1,5 +1,5 @@
 import React from 'react'
-import Cource from '../../components/Course/Cource'
+import Cource from '../../components/Course/Course'
 
 function Courses() {
   return (
