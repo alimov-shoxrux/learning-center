@@ -1,0 +1,91 @@
+.Category {
+    padding: 50px 0;
+}
+
+.course__category__title {
+    color: rgb(37, 38, 65);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    text-align: center;
+    margin-bottom: 53px;
+}
+
+.course__category__div {
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+   
+}
+
+.course__category__item {
+    width: 270px;
+    height: 347px;
+    border-radius: 20px;
+    box-shadow: 0px 18.83px 47.08px 0px rgba(47, 50, 125, 0.1);
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-bottom: 80px;
+
+    h4 {
+        color: rgb(0, 0, 0);
+        font-size: 25px;
+        margin-top: 20px;
+        font-weight: 600;
+        line-height: 45px;
+    }
+
+    p {
+        color: rgb(105, 105, 132);
+        font-size: 15px;
+        width: 235px;
+        font-weight: 400;
+        line-height: 27px;
+        text-align: center;
+    }
+}
+
+.categoryone {
+    background: rgba(73, 187, 189, 0.3);
+}
+
+.category__item {
+    border-radius: 4px;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categorytwo {
+    background: rgba(91, 114, 238, 0.3);
+}
+
+.categorythree {
+    background: rgba(157, 204, 255, 0.3);
+}
+
+.categoryfour {
+    background: rgba(0, 203, 184, 0.3);
+    ;
+}
+
+.categoryfive {
+    background: rgba(244, 140, 6, 0.3);
+}
+
+.categorysix {
+    background: rgba(238, 100, 91, 0.3)
+}
+
+.categoryseven {
+    background: rgba(37, 38, 65, 0.3)
+}
+
+.categoryeight {
+    background: rgba(0, 203, 184, 0.3)
+}

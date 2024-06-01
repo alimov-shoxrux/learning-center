@@ -14,6 +14,7 @@ import Check from './pages/Check/Check'
 import Blogs from './pages/Blogs/Blogs'
 import BlogsDetail from './pages/BlogsDetail/BlogsDetail'
 import Footer from './components/Footer/Footer'
+import CourseDetail from './pages/CoureDetail/CourseDetail'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
       <Routes>
         <Route path={'/'} element={<Home />} />
         <Route path={'/courses'} element={<Courses />} />
+        <Route path={'/courses-detail'} element={<CourseDetail/>}/>
         <Route path={'/careers'} element={<Careers />} />
         <Route path={'/blog'} element={<Blog />} />
         <Route path={'/about'} element={<About />} />
