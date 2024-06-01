@@ -1,0 +1,119 @@
+.CoursePrice {
+    padding: 97px 0;
+    background: #9dccff79;
+
+}
+
+.recom__div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+
+    h1 {
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 45px;
+    }
+
+    a {
+        color: rgb(73, 187, 189);
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+    }
+}
+
+.recom__flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.recom__item {
+    width: 300px;
+    height: 510px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 18.83px 47.08px 0px rgba(47, 50, 125, 0.1);
+    background: rgb(255, 255, 255);
+
+    &:not(:last-child) {
+        margin-right: 68px;
+    }
+}
+
+.recom__img {
+    width: 100%;
+}
+
+.recom__item__div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.recom__item__divimg {
+    display: flex;
+    align-items: center;
+
+    p {
+        margin-left: 10px;
+    }
+}
+
+.recom__item__title {
+    margin-top: 20px;
+    color: rgb(37, 38, 65);
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.recom__item__text {
+    color: rgb(105, 105, 132);
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 180%;
+    letter-spacing: 2%;
+}
+
+.recom__item__down {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.recom__item__title,
+.recom__item__price {
+    display: flex;
+    align-items: center;
+}
+
+.recom__item__title {
+    p {
+        margin-left: 10px;
+    }
+}
+
+.recom__item__price {
+    margin-top: 20px;
+
+    .recom__item__hundred {
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 27px;
+        text-decoration-line: line-through;
+    }
+
+    .recom__item__eighty {
+        color: rgb(73, 187, 189);
+        /* font-size: 24px; */
+        margin-left: 10px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 2%;
+    }
+}
