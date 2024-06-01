@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className='Header'>
       <div className="container">
-        <nav className='header__nav'>
+        <nav className='header__nav'>   
           <img src={logo} alt="" />
 
           <ul className='header__list'>
