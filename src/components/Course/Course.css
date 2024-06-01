@@ -1,6 +1,6 @@
 .Course {
     padding: 50px 0;
-    background: rgb(157, 204, 255);
+    background: #9dccff79;
 }
 
 .course__container {
@@ -90,10 +90,11 @@
     margin-left: 220px;
 }
 
-.course__pagination{
+.course__pagination {
     margin-left: 85%;
     margin-top: 50px;
-    button{
+
+    button {
         cursor: pointer;
         background: rgb(73, 187, 189);
         border: none;

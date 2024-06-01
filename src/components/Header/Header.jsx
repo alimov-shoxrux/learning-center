@@ -1,14 +1,16 @@
 import './Header.css'
 import { Link, useLocation } from 'react-router-dom'
 import logo from '../../assets/img/learning-logo.svg'
+import logotwo from '../../assets/img/learning-logo2.svg'
+import headeravatar from '../../assets/img/header-avatar.svg'
 
 function Header() {
   const location = useLocation().pathname
   return (
-    <div className='Header'>
+    <div className={location == '/' ? 'Header' : 'Header__white'}>
       <div className="container">
         <nav className='header__nav'>
-          <img src={logo} alt="" />
+          <img src={location == '/' ? logo : logotwo} alt="" />
 
           <ul className='header__list'>
             <li className='header__item'>
@@ -36,7 +38,10 @@ function Header() {
                 About Us
               </Link>
             </li>
-            <li className=' login__link'>
+            {
+              location == '/' ?
+             <div className='login__link__div'>
+               <li className=' login__link'>
               <Link to={'/login'}>
                 Login
               </Link>
@@ -46,6 +51,23 @@ function Header() {
                 Sign Up
               </Link>
             </li>
+             </div> :
+               <div className='login__link__div__right'>
+                 <img src={headeravatar} alt="" />
+                 <select >
+                  <option>
+                    Lina
+                  </option>
+                  <option>
+                    shoxrux
+                  </option>
+                   <option>
+                    education
+                  </option>
+                 </select>
+               </div>
+            }
+
           </ul>
         </nav>
       </div>

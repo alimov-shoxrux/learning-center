@@ -5,6 +5,8 @@ import imgone from '../../assets/img/course-imgone.svg'
 import smallone from '../../assets/img/course-smallone.svg'
 import imgtwo from '../../assets/img/course-imgtwo.svg'
 import imgfour from '../../assets/img/course-imgfour.svg'
+
+
 function Course() {
   return (
     <div className='Course'>
@@ -65,6 +67,9 @@ function Course() {
           <button><i class="bi bi-arrow-left"></i></button>
           <button> <i class="bi bi-arrow-right"></i> </button>
         </div>
+
+
+      
       </div>
     </div>
   )
