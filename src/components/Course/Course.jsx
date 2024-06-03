@@ -69,7 +69,7 @@ function Course() {
         </div>
 
 
-      
+
       </div>
     </div>
   )

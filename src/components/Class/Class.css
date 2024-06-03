@@ -1,0 +1,81 @@
+.class__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Class{
+    padding: 100px 0;
+}
+
+.class__left {
+    a {
+        color: rgb(105, 105, 132);
+        font-size: 22px;
+        font-weight: 400;
+        text-decoration-line: underline;
+    }
+
+    position: relative;
+
+    .radius {
+        position: absolute;
+        z-index: -1;
+        top: -10px;
+        left: -15px;
+    }
+
+    .smallradius {
+        position: absolute;
+        top: 290px;
+        left: 500px;
+    }
+
+    h2 {
+        font-size: 36px;
+        font-weight: 500;
+        color: rgb(47, 50, 125);
+        width: 655px;
+        margin-bottom: 30px;
+
+        span {
+            color: rgb(0, 203, 184);
+        }
+    }
+
+    p {
+        color: rgb(105, 105, 132);
+        font-size: 24px;
+        font-weight: 400;
+        width: 500px;
+        margin-bottom: 36px;
+
+    }
+}
+
+.class__right {
+    position: relative;
+
+    .kvadrat {
+        position: absolute;
+        z-index: -1;
+        top: 50px;
+        left: -20px;
+    }
+
+    .kvadratgreen {
+        position: absolute;
+        z-index: -1;
+        right: -25px;
+        bottom: 45px;
+    }
+}
+
+.modal__btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    left: 160px;
+    top: 150px;
+}

@@ -9,13 +9,10 @@ function Header() {
   return (
     <div className={location == '/' ? 'Header' : 'Header__white'}>
       <div className="container">
-<<<<<<< HEAD
-        <nav className='header__nav'>   
-          <img src={logo} alt="" />
-=======
+
+
         <nav className='header__nav'>
           <img src={location == '/' ? logo : logotwo} alt="" />
->>>>>>> da4749f9411a79e74f50b3598f4348c5f381e509
 
           <ul className='header__list'>
             <li className='header__item'>

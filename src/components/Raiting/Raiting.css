@@ -1,0 +1,236 @@
+.Raiting {
+    padding: 50px 0 100px 0;
+}
+
+.raiting__left__div {
+    margin-top: 50px;
+    background: #9dccff90;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.raiting__navigate {
+    button {
+        width: 120px;
+        height: 53px;
+        border-radius: 12px;
+        background: rgba(0, 0, 0, 0.1);
+        color: rgba(0, 0, 0, 0.4);
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 30px;
+        text-align: center;
+        border: none;
+
+        &:not(:last-child) {
+            margin-right: 4%;
+        }
+    }
+}
+
+.raiting__white__div {
+    background: white;
+    width: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    h5 {
+        font-size: 27px;
+        color: #0000007c;
+        margin-bottom: 20px;
+    }
+
+    p {
+        margin-top: 20px;
+        font-size: 20px;
+        color: #0000007c;
+    }
+}
+
+.raiting__right__div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.rrd__active {
+    background: #D9D9D9;
+    border-radius: 20px;
+    position: relative;
+    width: 300px;
+    height: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+
+    &:after {
+        content: "";
+        position: absolute;
+        width: 150px;
+        height: 8px;
+        background: hsl(181, 47%, 51%);
+        border-radius: 20px;
+
+    }
+}
+
+.rrd__flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    p {
+        padding-right: 15px;
+    }
+}
+
+.raiting__item__flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.raiting__img {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+    div {
+        margin-left: 20px;
+    }
+}
+
+.raiting__item__text {
+    font-size: 17px;
+    margin-bottom: 30px;
+    color: #0000007c;
+}
+
+.rating__item__span {
+    border-bottom: 1px solid #696984;
+}
+
+.raiting__img {
+    margin-top: 30px;
+}
+
+.raiting__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.raiting__right {
+    margin-top: -550px;
+    border: 30px solid rgb(255, 255, 255);
+    width: 481px;
+    height: 1245px;
+    border-radius: 20px;
+    background: rgb(255, 255, 255);
+    margin-left: 192px;
+    border-radius: 40px;
+    /* box-shadow: 0 0 10px 10px #eee; */
+
+}
+
+.priceimg {
+    width: 100%;
+}
+
+.raiting__price {
+    margin-top: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    h5 {
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .raiting__price__ninety {
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 20px;
+        font-weight: 600;
+        text-decoration-line: line-through;
+    }
+
+    .raiting__price__fifty {
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 20px;
+        font-weight: 600;
+    }
+}
+
+.raiting__hour {
+    color: #49bbbd;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.raiting__buy__btn {
+    width: 100%;
+    border: none;
+    background: #49bbbd;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 15px;
+    margin-top: 22px;
+}
+
+.raiting__div__span {
+    border: 1px solid rgb(105, 105, 132);
+    width: 100%;
+    margin-top: 55px;
+}
+
+.raiting__right__title {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+.raiting__right_div {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+
+    p {
+        margin-left: 20px;
+        transform: translateY(7px);
+    }
+}
+
+.raiting__training {
+    color: rgb(0, 0, 0);
+    margin-top: 34px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.raiting__training__text {
+    color: rgb(105, 105, 132);
+    font-size: 14px;
+    margin-top: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.raiting__imgs {
+    margin-top: 53px;
+    display: flex;
+    justify-content: space-around   ;
+    align-items: center;
+}
