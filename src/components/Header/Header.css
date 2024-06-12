@@ -122,3 +122,7 @@
         font-weight: 500;
     }
 }
+
+.header__item:last-child{
+    margin-left: 100px;
+}

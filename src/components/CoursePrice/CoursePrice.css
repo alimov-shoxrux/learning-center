@@ -29,6 +29,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+
 }
 
 .recom__item {
@@ -50,7 +52,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-       /* margin-top: 20px; */
+    /* margin-top: 20px; */
 }
 
 .recom__item__diving {
@@ -93,6 +95,7 @@
 .recom__item__title {
     display: flex;
     align-items: center;
+
     p {
         margin-left: 10px;
         margin-top: 12px;
@@ -100,7 +103,7 @@
 }
 
 .recom__item__price {
-    margin-top: 20px;   
+    margin-top: 20px;
 
     .recom__item__hundred {
         color: rgba(0, 0, 0, 0.5);
