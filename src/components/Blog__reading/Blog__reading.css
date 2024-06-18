@@ -1,0 +1,37 @@
+.blog__reading {
+    padding: 50px 0;
+    
+    h1{
+        color: rgba(0, 0, 0, 0.8);
+font-family: Poppins;
+font-size: 30px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0%;
+text-align: left;
+    }
+}
+.blog__reading_info{
+    display: flex;
+    justify-content: space-between;
+}
+.ux {
+    position: relative;
+
+    img{
+        width: 300px;
+    }
+}
+
+.btn_ux {
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    width: 236px;
+    height: 63px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.7);
+    color: black;
+    font-weight: 700;
+    font-size: large    ;
+}

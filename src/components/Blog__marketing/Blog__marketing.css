@@ -1,0 +1,10 @@
+.marketing__title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: 91px;
+}
+.recom__flex{
+    margin-bottom: 191px;
+}

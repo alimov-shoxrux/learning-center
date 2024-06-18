@@ -1,0 +1,41 @@
+.blog {
+    background-color: #9dccff79;
+}
+.blog__header {
+    display: flex;
+    padding: 50px 0px;
+    justify-content: space-between;
+}
+
+.blog__header_left {
+    font-weight: 400;
+    font-size: 18px;
+
+    p {
+        font-size: 22px;
+        color: #666;
+        margin-bottom: 30px;
+    }
+
+    button {
+        background-color:#49BBBD;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+}
+
+.blog__header_title {
+    font-size: 39px;
+    line-height: 1.2;
+    color: #2F327D;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.span {
+    color: #49BBBD;
+}

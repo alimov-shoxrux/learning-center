@@ -20,7 +20,7 @@ body {
 }
 
 ul,
-ol {
+ol,li {
     list-style: none;
 }
 
