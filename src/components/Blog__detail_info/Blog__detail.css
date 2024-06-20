@@ -39,7 +39,7 @@ margin-top: 80px;
    }
 }
 .line{
-    width: 1681px;
+    width: 100%;  
     border: 0.5px solid rgb(105, 105, 132);
     margin-bottom: 30px;
 }
@@ -79,6 +79,7 @@ margin-top: 80px;
     height: 49px;
     color: aqua;
     background-color: white;
-    border-color: aqua;
+    border:1px solid aqua;
     border-radius: 5px;
+    text-align: center;
 }

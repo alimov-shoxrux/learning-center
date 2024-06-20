@@ -4,6 +4,19 @@
     align-items: center;
     margin-bottom: 50px;
     margin-top: 91px;
+    h1 {
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 45px;
+    }
+
+    a {
+        color: rgb(73, 187, 189);
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+    }
 }
 .recom__flex{
     margin-bottom: 191px;
