@@ -30,7 +30,7 @@ function Footer() {
                     <p>Terms & Conditions</p>
                 </div>
 
-                <p className='footer__securate'>© 2021 Class Technologies Inc. </p>
+                <p className='footer__securate'>© 2024 Class Technologies Inc. </p>
             </div>
         </div>
     )
