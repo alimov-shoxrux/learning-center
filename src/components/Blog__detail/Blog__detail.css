@@ -1,0 +1,6 @@
+.blog__detail_header{
+    background-image: url(../../assets/img/detail-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover  ;
+    height: 652px;
+}

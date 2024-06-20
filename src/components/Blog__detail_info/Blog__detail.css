@@ -1,0 +1,84 @@
+.information {
+margin-top: 80px;
+    h1 {
+        margin-right: 110px;
+        color: rgb(47, 50, 125);
+        font-family: Poppins;
+        font-size: 44px;
+        font-weight: 600;
+        line-height: 180%;
+        letter-spacing: 0%;
+        text-align: center;
+        margin-bottom: 33px;
+    }
+
+    p {
+        color: rgb(105, 105, 132);
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 180%;
+        letter-spacing: 2%;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+}
+.information__btn{
+    margin-bottom: 30px;
+}
+.info_btn {
+    
+    border: none;
+    width: 136px;
+    height: 45px;
+    border-radius: 36px;
+    background: rgba(73, 187, 189, 0.1);
+    color: rgb(105, 105, 132);
+   &:not(:last-child){
+    margin-right: 30px;
+   }
+}
+.line{
+    width: 1681px;
+    border: 0.5px solid rgb(105, 105, 132);
+    margin-bottom: 30px;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+}
+.ava{
+    display: flex;
+    border-radius: 50%;
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    margin-bottom: 30px;
+
+    img{
+        width: 77px;
+        height: 77px;
+        background-color: #D9D9D9;
+        border-radius: 10px;
+    }
+}
+.writen{
+    margin-left: 20px;
+    color: #6c757d; 
+
+}
+.lina{
+    font-size: 24px;
+    font-weight: bold;
+    color: #000; 
+    margin-top: 5px;
+}
+.follow_btn{
+    margin-top: 45px;
+    width: 232px;
+    height: 49px;
+    color: aqua;
+    background-color: white;
+    border-color: aqua;
+    border-radius: 5px;
+}

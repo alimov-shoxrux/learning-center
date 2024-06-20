@@ -9,10 +9,10 @@ function Blog__related() {
         <div className="container"> 
             <div className='title__related'>
                 <h1>Related Blog </h1>
-                <a href="#">see all</a>
+                <Link to='/blogs-detail'>see all</Link>
             </div>
             <div className="related">
-                <Link className='related__item'>
+                <Link  to='/blogs-detail' className='related__item'>
                 <img className='related__img' src={blog__teacher} alt="" />
                 <p className='related__text'>Class adds $30 million to its balance sheet for a Zoom-friendly edtech solution</p>
                 <div className='related__flex'>
@@ -27,7 +27,7 @@ function Blog__related() {
                     <p>251,232</p>
                 </div>
                 </Link>
-                <Link className='related__item'>
+                <Link  to='/blogs-detail' className='related__item'>
                 <img className='related__img' src={blog__teacher} alt="" />
                 <p className='related__text'>Class adds $30 million to its balance sheet for a Zoom-friendly edtech solution</p>
                 <div className='related__flex'>
